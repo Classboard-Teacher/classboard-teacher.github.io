@@ -7,12 +7,8 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 - Founded Classboard-Teacher
 - Current Owner
 - Does most of the development
-- Has a YouTube channel
 - Knows HTML, CSS, and JavaScript
 - Main bug fixer
-- Made the forms
-- yea :D
-
   ### Bahabryra
 - Current Operator of Classboard Teacher
 - Also has scratch profile scratch.mit.edu/users/bahabryra
